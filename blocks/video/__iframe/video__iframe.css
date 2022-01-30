@@ -1,0 +1,9 @@
+.video__iframe {
+  width: 515px;
+  height: 316px;
+  margin-right: 20px;
+  transition: opacity 0.5s ease-in-out;
+}
+.video__iframe:hover {
+  opacity: 0.5;
+}
