@@ -3,3 +3,6 @@
   justify-content: space-between;
   margin-right: 100px;
 }
+.cards__item:nth-child(3n) {
+  margin: 0;
+}
